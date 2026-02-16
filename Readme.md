@@ -1,7 +1,6 @@
 ```zsh
 > neofetch
 ```
-
 <img align="left" src="https://i.pinimg.com/1200x/0b/f8/af/0bf8af24e35cc41bb536f01a5dff6910.jpg" width="320"/>
 
 ```csharp
@@ -9,7 +8,6 @@ ShriyaSinha1809@github
 -------------------------
 OS: IIT Kharagpur
 Major: Instrumentation Engineering
-CGPA: 8.53 / 10
 Kernel: Research • AI • Quantum ML
 Uptime: Building since 2021
 Editor: VS Code / Jupyter
